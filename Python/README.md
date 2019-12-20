@@ -4,7 +4,8 @@
 
 1. [Instalación del IDE](1.InstalacionDelIDE.md)
 1. [Introducción a Python](2.IntroduccionAPython.md)
-1. Básicos de Python
+1. [Básicos de Python](3.BasicosDePython.md)
+1. [Funciones y archivos con Python](4.FuncionesPython.md)
 
 ### NOTA
 
