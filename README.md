@@ -3,7 +3,7 @@ Las notas tomadas de la clase de Desarrollo de Aplicaciones Informáticas (DAI) 
 
 ## Sobre el curso
 
-Dentro del curso de ven las bases para poder crear una aplicación con conexión a base de datos, ya sea esta una aplicación de escritorio o web, al igual que se vió el uso y manejo de bases de datos. Esto se ve con los lenguajes de [*C#*](https://docs.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/) para el desarrollo de escritorio, a este se le suma *HTML, CSS y JavaScript* para crear las soluciones web y finalmente para el mantenimiento de las bases de datos ocupamos [*T-SQL*](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15), aunque también es compatible con *SQL*.
+Dentro del curso se ven las bases para poder crear una aplicación con conexión a base de datos, ya sea esta una aplicación de escritorio o web, al igual que se vió el uso y manejo de bases de datos. Esto se ve con los lenguajes de [*C#*](https://docs.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/) para el desarrollo de escritorio, a este se le suma *HTML, CSS y JavaScript* para crear las soluciones web y finalmente para el mantenimiento de las bases de datos ocupamos [*T-SQL*](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15), aunque también es compatible con *SQL*.
 
 Otro de los puntos tratados es el manejo de datos con [*Excel*](https://products.office.com/es-mx/excel) donde vemos cosas como las funciones básicas, macros o el uso de archivos *DLL* para agilizar operaciones o procesos que se quieran hacer para *Excel*.
 
